@@ -44,4 +44,4 @@
   - The analysis shows patterns, not causes.
   - The groups are unusually similar on volume, cost, stay length and test results. Real hospital data usually varies more, so the dataset may be simplified or sampled and this should be confirmed.
   - There is no information on treatment type or case severity, which would be needed to explain cost differences.
-  - Billing figures
+  
